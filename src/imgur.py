@@ -4,15 +4,15 @@ import random
 import ctypes
 import threading
 
-if not os.path.exists('Images'): os.makedirs('Images') # Makes Folder Called Images
+if not os.path.exists('images'): os.makedirs('images')
 lock = threading.Lock()
 Valid = 0
 Invalid = 0
 
-def Clear(): # Simple Clear Console Function
+def Clear():
     os.system('cls')
 
-def UpdateTitle(): # Update The Title
+def UpdateTitle():
     ctypes.windll.kernel32.SetConsoleTitleW("[imgur scraper] by armful#0001 | Valid: %s | Invalid: %s" % (Valid, Invalid))
     
 def Bruteforce(imgtype):
