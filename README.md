@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="https://discord.gg/VKJeg6nvSH">
+  <img src="https://i.imgur.com/1XJhQBe.png"/>
+    </a>
+</p>
+
 ## imgur-scraper
 Simple Python script to brute-force URLs from **[imgur.com](https://imgur.com/)**
 
@@ -8,3 +14,9 @@ Simple Python script to brute-force URLs from **[imgur.com](https://imgur.com/)*
 ### Images folder
 
 ![armful#0001](https://i.imgur.com/n3fiyik.png)
+
+<p align="center">
+  <a href="https://discord.gg/VKJeg6nvSH">
+  <img src="https://i.imgur.com/HWF3UoH.png"/>
+  </a>
+</p>
