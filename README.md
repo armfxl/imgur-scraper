@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/1XJhQBe.png"/>
+    <a href="https://discord.gg/MeD6HFx9fG">
+  <img src="https://i.imgur.com/RZjyfjG.png"/>
     </a>
 </p>
 
@@ -16,7 +16,7 @@ Simple Python script to brute-force URLs from **[imgur.com](https://imgur.com/)*
 ![armful#0001](https://i.imgur.com/n3fiyik.png)
 
 <p align="center">
-  <a href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/HWF3UoH.png"/>
+  <a href="https://discord.gg/MeD6HFx9fG">
+  <img src="https://i.imgur.com/t2jixCo.png"/>
   </a>
 </p>
